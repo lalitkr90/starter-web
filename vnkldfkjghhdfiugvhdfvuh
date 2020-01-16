@@ -1,0 +1,39 @@
+* [33m14b0b8f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m adding the conflicting chnages in simple.html
+[31m|[m * [33m70123ed[m[33m ([m[1;32mrealwork[m[33m)[m adding to simple.html
+[31m|[m[31m/[m  
+*   [33m1ec1d04[m merging changes from simple-changes branch
+[33m|[m[34m\[m  
+[33m|[m * [33m36e8286[m Adding team to humans.txt
+* [34m|[m [33m56450df[m Adding to readme file
+[34m|[m[34m/[m  
+*   [33mdfadabf[m Merge branch 'add-copyright'
+[35m|[m[36m\[m  
+[35m|[m * [33m0d904e4[m new chnage in readme
+[35m|[m[35m/[m  
+* [33m8af3425[m new copyright in readme
+* [33m6179e52[m copyroght notice
+* [33mc44fe81[m change title of html file
+* [33m15a21e3[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m update
+* [33m53b575c[m Deploymenty added
+* [33m3d30789[m Ignoring log folder
+* [33ma542028[m direcvtory delted
+* [33mbbc7ec1[m deleted hipster
+* [33m1583070[m removed teh newfile
+* [33m78d2a06[m add
+* [33m37ca103[m add
+* [33m5eb5520[m add
+* [33md4d4cc4[m add
+* [33mcc8d3cd[m moving file from level2 to level3
+* [33meaa29cc[m Renaming level2 file
+* [33m9b6fc0c[m Renaming level3 file
+* [33mb65436a[m Adding serveral files recursively
+* [33m1376068[m more hipster status
+* [33m932a2ce[m Adding new file
+* [33m539736d[m adding more text
+* [33m28bd458[m My first commit
+*   [33m4beb7f0[m Merge pull request #6 from jasongtaylor/feature-readme
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33me73f914[m Adding Purpose section to README
+[1;31m|[m * [33m34f563b[m Adding README file
+[1;31m|[m[1;31m/[m  
+* [33m5c05047[m Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
