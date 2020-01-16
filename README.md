@@ -13,5 +13,5 @@ Just an example
 just for testing
 some extra test
 ### Copyright
-new copyroight and new chnage
+new copyroight 
 
