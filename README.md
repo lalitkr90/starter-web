@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 and to check the rebase
+more changes in feature brachj
 
 ## Purpose
 
