@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    lalit -- storage admin -- lalitkr90
 
 # THANKS
 
