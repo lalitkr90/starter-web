@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
     lalit -- storage admin -- lalitkr90
+    swati -- test lead -- pukki baniya
 
 # THANKS
 
