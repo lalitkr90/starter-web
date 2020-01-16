@@ -15,5 +15,5 @@ Just an example
 just for testing
 some extra test
 ### Copyright
-new copyroight 
+new copyroight the git trainign
 
